@@ -1,3 +1,2 @@
 # sturdy-system
-
-https://github.com/AVITprofessional/sturdy-system/tree/main
+https://roadmap.sh/projects/single-page-cv
